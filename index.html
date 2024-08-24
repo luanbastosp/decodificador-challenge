@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Decodificador de texto</title>
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <main>
+        <header>
+            <h1><img src="./img/aluraLogo.svg" alt="Logo da Alura"></h1>
+        </header>
+        <section id="user-input-section" class="user-form">
+            <textarea id="messageBox" placeholder="Digite um texto" type="text" rows="5"></textarea>   
+            <div class="alert-message">
+                <img src="./img/exclamation.svg" alt="Ícone de alerta" width="16" height="16">
+                <span>Apenas letras minúsculas e sem acento</span>
+            </div>
+            <div class="btns">
+                <button onclick="encryptText()" class="pri-btn" aria-label="Criptografar texto">Criptografar</button>
+                <button onclick="desencryptText()" class="sec-btn" aria-label="Descriptografar texto">Descriptografar</button>
+            </div>
+        </section>
+        <section id="result-form" class="result">
+            <img src="./img/person.svg" alt="Pessoa analisando um diamante com uma lupa">
+            <p class="alert">Nenhuma mensagem encontrada</p>
+            <p class="message-tip">Digite um texto que você deseja criptografar ou descriptografar.</p>
+        </section>
+    </main>
+    <footer>Acesse meu <a href="https://www.linkedin.com/in/luandepaula">LinkedIn</a></footer>
+</body>
+</html>
