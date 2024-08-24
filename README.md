@@ -1,8 +1,21 @@
-<h1 align="center">Hi 👋, I'm Luan de Paula</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/luandepaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luandepaula" height="30" width="40" /></a>
-</p>
+# Decodificador de Texto
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+Este é um projeto de um decodificador de texto proposto pela formação 'Iniciante em Programação T7 - ONE' da Alura! Com ele, você pode criptografar e descriptografar mensagens de maneira bem simples, usando algumas regras de substituição. A interface é feita com HTML e CSS, e o JavaScript cuida da parte do back-end da criptografia e descriptografia.
+
+## O que você pode fazer
+
+- **Criptografar**: Transforma letras minúsculas em uma versão codificada.
+- **Descriptografar**: Desfaz a codificação e traz o texto de volta ao normal.
+- **Copiar**: Copia o texto resultante para a área de transferência com um clique.
+- **Feedback visual**: Mostra mensagens de alerta e dicas úteis enquanto você usa.
+
+## O que utilizei:
+
+- **HTML**: Para a estrutura da página.
+- **CSS**: Para dar aquele visual bacana.
+- **JavaScript**: Para a lógica de criptografia e manipulação do conteúdo.
+
+## Minhas redes:
+
+<a href="www.linkedin.com/in/luandepaula">LinkedIn</a><br>
+<a href="https://www.instagram.com/luanpaulaa/">Instagram</a>
