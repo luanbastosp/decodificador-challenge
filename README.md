@@ -17,5 +17,5 @@ Este é um projeto de um decodificador de texto proposto pela formação 'Inicia
 
 ## Minhas redes:
 
-<a href="www.linkedin.com/in/luandepaula">LinkedIn</a><br>
+<a href="https://www.linkedin.com/in/luandepaula">LinkedIn</a><br>
 <a href="https://www.instagram.com/luanpaulaa/">Instagram</a>
